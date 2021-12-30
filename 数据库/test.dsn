@@ -1,0 +1,8 @@
+[ODBC]
+DRIVER=SQL Server
+UID=sa
+DATABASE=database_currium_design
+WSID=LAPTOP-8SJFQF62
+APP=PowerDesigner  ÓñÃ× ºº»¯
+SERVER=LAPTOP-8SJFQF62
+Description=test
